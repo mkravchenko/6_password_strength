@@ -6,8 +6,9 @@
     python password_strength.py<br />
 3. Enter the path to the file that you download on step 1.<br />
 4. Enter your password.<br />
+5. To exit push "Enter" button.<br />
 
-# Examples:<br />
+# Examples of usage:<br />
 
 Enter the password: 93<br />
 The password strength is: 1
