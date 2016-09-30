@@ -1,5 +1,7 @@
 # 6_password_strength
 
+This script will print strength of input password.
+
 1. Download any file with most used passwords:<br />
     https://github.com/danielmiessler/SecLists/tree/master/Passwords<br />
 2. Run the program:<br />
